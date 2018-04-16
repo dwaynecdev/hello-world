@@ -1,2 +1,4 @@
 # hello-world
-github learning exercise
+This is a github learning exercise.
+For instructional purposes only.
+No warranty is implied.
